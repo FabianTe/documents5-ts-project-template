@@ -1,0 +1,8 @@
+.compare
+.vscode/launch.json
+
+build
+node_modules
+
+documents-scripting-settings.json
+.documents-scripting-cache

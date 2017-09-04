@@ -1,0 +1,27 @@
+{
+  "name": "documents5-ts-project-template",
+  "version": "0.0.0",
+  "description": "DOCUMENTS 5 Project Template using Typescript",
+  "scripts": {},
+  "devDependencies": {
+    "config": "^1.26.2",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0",
+    "gulp-less": "^3.3.2",
+    "gulp-shell": "^0.6.3",
+    "gulp-typescript": "^3.2.2",
+    "gulp-util": "^3.0.8",
+    "typescript": "^2.4.2",
+    "yargs": "^8.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianTe/documents5-ts-project-template.git"
+  },
+  "author": "Fabian Terstegen",
+  "bugs": {
+    "url": "https://github.com/FabianTe/documents5-ts-project-template/issues"
+  },
+  "homepage": "https://github.com/FabianTe/documents5-ts-project-template#readme",
+  "private": true
+}

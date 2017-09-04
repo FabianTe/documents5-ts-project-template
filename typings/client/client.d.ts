@@ -1,0 +1,1 @@
+// This typings file should only exist on client side

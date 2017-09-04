@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"module": "none",
+		"outDir": "../../build/server",
+		"skipLibCheck": true,
+		"noEmitHelpers": true
+	},
+	"include": [
+		"./**/*.ts",
+		"../../typings/server/**/*.d.ts",
+		"../../typings/shared/**/*.d.ts"
+	]
+}
