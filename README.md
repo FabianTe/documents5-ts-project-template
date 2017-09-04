@@ -11,6 +11,7 @@ This template is meant to be used with Visual Studio Code and [Otris's Plugin fo
 2. (Optional but recommended) Remove the original remote: ```git remote rm origin```
 3. Install all [workspace recommended plugins](https://code.visualstudio.com/docs/editor/extension-gallery#_workspace-recommended-extensions) which include Otris's plugin.
 4. Install dependencies ```npm i```.
+5. Download the lates PortalScriptings from [here](https://github.com/otris/vscode-janus-debug/tree/master/portalscript/typings) to ```./typings/server```. Alternatively you can download them with a right click on the server folder and selecting **Install Intellisense Files** if you have Otris's extension installed.
 
 Alternatively you could also delete the hidden ```.git``` folder and use ```git init``` later if you want to start completely clean.
 
