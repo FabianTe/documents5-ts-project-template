@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "noLib": true
+    },
+
+    "include": [
+        "src/*",
+	    "typings/*"
+    ]
+}
