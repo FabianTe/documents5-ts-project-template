@@ -33,6 +33,8 @@ There are the following gulp options available you can customize in ```./gulpfil
 	- ```--client``` - Copy client files to ext. res and so on.
 	- ```--server``` - Upload PortalScripts to DOCUMENTS server
 
+These commands can be run like this from the project root: ```gulp [build|deploy] [options]``` where options can be those in the list above.
+
 ### Building server scripts
 
 1. Call ```gulp build --server``` in project root.
