@@ -6,3 +6,4 @@ node_modules
 
 documents-scripting-settings.json
 .documents-scripting-cache
+.vscode-janus-debug
